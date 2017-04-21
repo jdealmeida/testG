@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s35445208667407392af660313739caa",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3f6c1406a7a405f90e77fcf776cabdb",
+    "id": "btnnico",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7d02d797e3c24e63adbe48d9ff26a66c",
+    "name": "kony.ui.Button",
+    "parent": "frmNico",
+    "pf": "frmNico",
+    "wType": "Button",
+    "zindex": 1
+}
